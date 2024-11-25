@@ -25,10 +25,12 @@ nav:
   - 随笔:
       - diaries/index.md
       - diaries/diary-1.md
+      - diaries/HuaweiPatriotism.md
 
 # [UI]
 # [top]
 theme:
+  favicon: image/k.svg
   name: material
   # [切换日间模式和夜间模式]
   # https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/#color-palette-toggle

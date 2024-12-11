@@ -1,5 +1,5 @@
 site_name: KevinGuo Blog
-site_url: https://sitename.example
+site_url: https://kevinguo1007.github.io/
 site_author: KevinGuo
 site_description: KevinGuo的个人网站
 
@@ -173,6 +173,9 @@ markdown_extensions:
   # [Markdown footnote 语法支持]
   # https://squidfunk.github.io/mkdocs-material/reference/footnotes/
   - footnotes
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
 
 extra_javascript:
   # [数学公式支持]

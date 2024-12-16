@@ -1,0 +1,23 @@
+.md-typeset .admonition,
+.md-typeset details {
+  border-width: 0;
+  border-left-width: 4px;
+  font-size: 16px;
+}
+.md-typeset h2 {
+  padding-bottom: 0.2em;
+  border-bottom: 1px solid #d3d3d3;
+}
+.md-typeset h3 {
+  padding-bottom: 0.2em;
+  border-bottom: 1px dashed #d3d3d3;
+}
+.md-typeset h4 {
+  font-size: 1.17em;
+}
+.md-typeset h5 {
+  font-size: 1.08em;
+}
+.md-typeset h6 {
+  font-size: 1em;
+}

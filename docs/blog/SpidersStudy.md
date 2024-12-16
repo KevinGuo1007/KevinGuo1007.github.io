@@ -33,5 +33,4 @@ Scrapy 是一套基于 Twisted 的异步处理框架，是纯 Python 实现的�
 改。当然，Scrapy 只是 Python 的一个主流框架，除了 Scrapy 外，还有其他基于 Python 的爬
 虫框架，包括 Crawley、Portia、Newspaper、Python-goose、Beautiful Soup、Mechanize、Selenium
 和 Cola 等。
-! [scrapy 框架] (..\docs\image\scrapy 框架图.png)
 <img src="../image/scrapy-001.png" width="300">

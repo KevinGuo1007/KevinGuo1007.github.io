@@ -5,18 +5,30 @@
 
 ## 学习路线
 
-**必备工具**：Shell 编程、命令行配置、Git、Vim、tmux、ssh、Linux、Scoop、Docker、LaTex;
+**必备工具**：Shell 编程、命令行配置、Git、Vim、tmux(开源的终端复用器)、ssh、Linux、Scoop(Windows 下的命令行安装器)、Docker、LaTex、MATLAB;
 
 ### 先修：
 
-- Course：[MIT-Missing-Semester](https://csdiy.wiki/%E7%BC%96%E7%A8%8B%E5%85%A5%E9%97%A8/MIT-Missing-Semester/)
-- Course：[UCB: Sysadmin DeCal](https://csdiy.wiki/%E7%BC%96%E7%A8%8B%E5%85%A5%E9%97%A8/DeCal/)
-- Docs：[命令行的艺术](https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md)
-- Docs：[《Linux 101》在线讲义](https://101.lug.ustc.edu.cn/)
+- [ ] Course：[MIT-Missing-Semester](https://csdiy.wiki/%E7%BC%96%E7%A8%8B%E5%85%A5%E9%97%A8/MIT-Missing-Semester/)
+- [ ] Course：[UCB: Sysadmin DeCal](https://csdiy.wiki/%E7%BC%96%E7%A8%8B%E5%85%A5%E9%97%A8/DeCal/)
+- [ ] Docs：[命令行的艺术](https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md)
+- [ ] Docs：[《Linux 101》在线讲义](https://101.lug.ustc.edu.cn/)
+- [ ] Docs: [Scoop - A command-line installer for Windows.](https://github.com/ScoopInstaller/Scoop)
+- [ ] Online Course:[面向初学者的 Docker 培训课程](https://kodekloud.com/courses/docker-for-the-absolute-beginner/)
+- [ ] Docs: [一份其实很短的 LaTeX 入门文档](https://liam.page/2014/09/08/latex-introduction/)
+- [ ] Docs: [现代 LaTeX 入门讲座](https://github.com/stone-zeng/latex-talk?tab=readme-ov-file)
+- [ ] Course: [UCB CS 61A: Computer Programs](https://www.bilibili.com/video/BV1s3411G7yM/?spm_id_from=333.337.search-card.all.click&vd_source=2b10e0b6e8f94bce87b2b8ef1b7cb42a)
+- [ ] Course: [SQL Mastery](https://www.bilibili.com/video/BV1UE41147KC/?vd_source=2b10e0b6e8f94bce87b2b8ef1b7cb42a)
+- [ ] Course: [MIT 18.06 Linear Algebra](https://www.bilibili.com/video/BV1Pa16YVEmk/?spm_id_from=333.1007.top_right_bar_window_custom_collection.content.click&vd_source=2b10e0b6e8f94bce87b2b8ef1b7cb42a)
 
-### 第一阶段 2024.11-2025.02：
+#### Personal projects:
 
-> 第三学期后半段+寒假，由于这学期刚刚学完线性代数，及时进行巩固学习；课内的 Pyhton 课程通过 CS61A 进行
+- [ ] Linux 快速使用手册 - After reading [MIT-Missing-Semester] & [UCB: Sysadmin DeCal] & [命令行的艺术] & [《Linux 101》在线讲义]
+- [ ] 成为 Windows 管理者指南 - After reading [Scoop - A command-line installer for Windows.]
+- [ ] 完成大数据概论期末论文 - After reading [现代 LaTeX 入门讲座]
+- [ ] 完成数据库概论期末大作业 - After reading [SQL Mastery]
+
+---
 
 ## 参考文章
 

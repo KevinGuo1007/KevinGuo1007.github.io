@@ -189,8 +189,6 @@ markdown_extensions:
         # - pymdownx.details
 
 extra_javascript:
-  # [Giscus评论功能]
-  - https://giscus.app/client.js
   # [数学公式支持]
   # https://squidfunk.github.io/mkdocs-material/reference/math/#katex
   - mkdocs/javascripts/katex.js

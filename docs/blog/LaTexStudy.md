@@ -1,6 +1,7 @@
 ---
 hide:
   - navigation
+comments: true
 ---
 
 # LaTex 学习笔记

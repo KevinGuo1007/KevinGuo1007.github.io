@@ -15,6 +15,7 @@ repo_name: KevinGuo1007.github.io
 theme:
   favicon: image/k.svg
   name: material
+  custom_dir: overrides
   palette:
     scheme: slate
     primary: teal
